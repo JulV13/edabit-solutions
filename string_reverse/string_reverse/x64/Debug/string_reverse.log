@@ -1,0 +1,3 @@
+﻿  string_reverse.cpp
+C:\Users\julv1\source\repos\string_reverse\string_reverse\string_reverse.cpp(9,16): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  string_reverse.vcxproj -> C:\Users\julv1\source\repos\string_reverse\x64\Debug\string_reverse.exe
