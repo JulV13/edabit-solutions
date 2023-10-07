@@ -1,1 +1,1 @@
-My solutions to Edabit C++ Practice Challanges.
+My solutions to Edabit C++ Practice Challenges.
