@@ -12,9 +12,6 @@ void DrawChristmasTree(int h) {
         for (int g = 0; g < stars; g++) {
             cout << "*";
         }
-        for (int p = 0; p < blank; p++) {
-            cout << " ";
-        }
         blank -= 1;
         stars += 2;
         cout << "\n";
